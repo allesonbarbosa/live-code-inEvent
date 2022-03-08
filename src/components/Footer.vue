@@ -5,58 +5,58 @@
             <div id="company-links">
                 <ul>
                     <li><b>Company</b></li>
-                    <li><a href="">About</a></li>
-                    <li><a href="">Solutions</a></li>
-                    <li><a href="">Library</a></li>
-                    <li><a href="">Cases</a></li>
-                    <li><a href="">Plans</a></li>
-                    <li><a href="">Support</a></li>
+                    <li><a href="https://inevent.com/en/about.php">About</a></li>
+                    <li><a href="https://inevent.com/en/about.php">Solutions</a></li>
+                    <li><a href="https://inevent.com/en/library.php">Library</a></li>
+                    <li><a href="https://inevent.com/en/case-studies.php">Cases</a></li>
+                    <li><a href="https://inevent.com/en/pricing.php">Plans</a></li>
+                    <li><a href="https://inevent.com/en/support.php">Support</a></li>
                 </ul>
             </div>
             <div id="solutions-links">
                 <ul>
                     <li><b>Solutions</b></li>
-                    <li><a href="">Start</a></li>
-                    <li><a href="">Live</a></li>
-                    <li><a href="">Registration</a></li>
-                    <li><a href="">Compliance</a></li>
-                    <li><a href="">Hospitality</a></li>
-                    <li><a href="">Pass</a></li>
+                    <li><a href="https://inevent.com/en/start-data-management.php">Start</a></li>
+                    <li><a href="https://inevent.com/en/live-event-mobile-app.php">Live</a></li>
+                    <li><a href="https://inevent.com/en/registration-forms-rsvp-invites.php">Registration</a></li>
+                    <li><a href="https://inevent.com/en/management-budget-briefing-suppliers.php">Compliance</a></li>
+                    <li><a href="https://inevent.com/en/hospitality-logistics-roomlist.php">Hospitality</a></li>
+                    <li><a href="https://inevent.com/en/pass-event-quick-checkin.php">Pass</a></li>
                 </ul>
             </div>
             <div id="more-links">
                 <ul>
                     <li><b>More</b></li>
-                    <li><a href="">Start</a></li>
-                    <li><a href="">EventMarket</a></li>
-                    <li><a href="">Partnership</a></li>
-                    <li><a href="">Eventhub</a></li>
-                    <li><a href="">Global</a></li>
-                    <li><a href="">Security</a></li>
+                    <li><a href="https://inevent.com/en/start-data-management.php">Start</a></li>
+                    <li><a href="https://inevent.com/en/eventmarket.php">EventMarket</a></li>
+                    <li><a href="https://inevent.com/en/referral-partnerships.php">Partnership</a></li>
+                    <li><a href="https://inevent.com/en/event-hub-inevent-data-platform.php">Eventhub</a></li>
+                    <li><a href="https://inevent.com/en/global-international-worldwide-software.php">Global</a></li>
+                    <li><a href="https://inevent.com/en/security-data-privacy.php">Security</a></li>
                 </ul>
             </div>
             <div id="other-links">
                 <ul>
-                    <li><a href="">Login</a></li>
-                    <li><a href="">Blog</a></li>
-                    <li><a href="">FAQ</a></li>
-                    <li><a href="">Jobs</a></li>
-                    <li><a href="">API Docs</a></li>
-                    <li><a href="">Integrations</a></li>
-                    <li><a href="">System Status</a></li>
+                    <li><a href="https://inevent.com/en/company.php">Login</a></li>
+                    <li><a href="https://inevent.com/blog">Blog</a></li>
+                    <li><a href="https://faq.inevent.com/l/en">FAQ</a></li>
+                    <li><a href="https://inevent.com/en/work-with-us.php">Jobs</a></li>
+                    <li><a href="https://inevent.com/en/developer.php">API Docs</a></li>
+                    <li><a href="https://inevent.com/en/partners-integrations.php">Integrations</a></li>
+                    <li><a href="https://inevent.com/en/trust.php">System Status</a></li>
                 </ul>
             </div>
             <div id="icons-social-links">
-                <a href="">
+                <a href="https://www.linkedin.com/company/ineventapp" target="_blank">
                     <img src="https://inevent.com/images/social-media/linkedin-gray.svg" alt="logo-linkedin">
                 </a>
-                <a href="">
+                <a href="https://www.instagram.com/ineventapp" target="_blank">
                     <img src="https://inevent.com/images/social-media/instagram-gray.svg" alt="logo-instagram">
                 </a>
-                <a href="">
+                <a href="https://twitter.com/ineventapp" target="_blank">
                     <img src="https://inevent.com/images/social-media/twitter-gray.svg" alt="logo-twitter">
                 </a>
-                <a href="">
+                <a href="https://www.youtube.com/channel/UC3C2GrWpjXVjG21Arrtwi4Q" target="_blank">
                     <img id="youtube-logo" src="https://inevent.com/images/social-media/youtube-ico.svg" alt="logo-youtube">
                 </a>
             </div>
@@ -65,27 +65,27 @@
             <p> © InEvent, Inc.2022</p>
         </div>
         <div id="links-footer">
-            <a href="">Terms of Service</a>
+            <a href="https://inevent.com/en/terms.php">Terms of Service</a>
             <span class="divider">
                 •
             </span>
-            <a href="">Privacy Policy</a>
+            <a href="https://inevent.com/en/privacy.php">Privacy Policy</a>
             <span class="divider">
                 •
             </span>
-            <a href="">Cookie Policy</a>
+            <a href="https://inevent.com/en/cookies.php">Cookie Policy</a>
             <span class="divider">
                 •
             </span>
-            <a href="">GDPR</a>
+            <a href="https://inevent.com/en/gdpr-general-data-protection-regulation.php">GDPR</a>
             <span class="divider">
                 •
             </span>
-            <a href="">Business Continuity Plan</a>
+            <a href="https://inevent.com/en/business-continuity-plan.php">Business Continuity Plan</a>
             <span class="divider">
                 •
             </span>
-            <a href="">sales@inevent.com</a>
+            <a href="mailto:sales@inevent.com">sales@inevent.com</a>
         </div>
     </div>
 </template>
